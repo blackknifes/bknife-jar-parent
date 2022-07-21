@@ -4,7 +4,7 @@
     <groupId>com.bknife</groupId>
     <artifactId>bknife-jar-parent</artifactId>
     <name>bknife-jar-parent</name>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -21,7 +21,7 @@
         <lombok.version>1.18.24</lombok.version>
         <slf4j.version>1.7.36</slf4j.version>
         <mysql.version>8.0.29</mysql.version>
-        <fastjson.version>2.0.6.graal</fastjson.version>
+        <fastjson.version>2.0.9</fastjson.version>
         <junit.version>4.13.2</junit.version>
 
         <spring-jdbc.version>5.3.21</spring-jdbc.version>
